@@ -1,7 +1,7 @@
 # SimpleSerial
 Most Simple Possible Version One
 
-This is where I plan to install a Bootstrapped Jekyll installation with a ultra simple crunchy serial demo.
+An ultra simple crunchy serial demo - under development...
 
 Seen Here: http://crunchyserial.github.io/SimpleSerial/
 
